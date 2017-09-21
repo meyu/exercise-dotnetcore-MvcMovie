@@ -1,0 +1,10 @@
+/Users/meyu/Downloads/MvcMovie/bin/Debug/netcoreapp2.0/MvcMovie.deps.json
+/Users/meyu/Downloads/MvcMovie/bin/Debug/netcoreapp2.0/MvcMovie.runtimeconfig.json
+/Users/meyu/Downloads/MvcMovie/bin/Debug/netcoreapp2.0/MvcMovie.runtimeconfig.dev.json
+/Users/meyu/Downloads/MvcMovie/bin/Debug/netcoreapp2.0/MvcMovie.dll
+/Users/meyu/Downloads/MvcMovie/bin/Debug/netcoreapp2.0/MvcMovie.pdb
+/Users/meyu/Downloads/MvcMovie/obj/Debug/netcoreapp2.0/MvcMovie.csproj.CoreCompileInputs.cache
+/Users/meyu/Downloads/MvcMovie/obj/Debug/netcoreapp2.0/MvcMovie.AssemblyInfoInputs.cache
+/Users/meyu/Downloads/MvcMovie/obj/Debug/netcoreapp2.0/MvcMovie.AssemblyInfo.cs
+/Users/meyu/Downloads/MvcMovie/obj/Debug/netcoreapp2.0/MvcMovie.dll
+/Users/meyu/Downloads/MvcMovie/obj/Debug/netcoreapp2.0/MvcMovie.pdb
